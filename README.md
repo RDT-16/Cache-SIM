@@ -63,7 +63,3 @@ This project is intended for students, educators, and developers to understand t
 ## 🤝 Contributing
 
 Contributions are welcome! Feel free to fork the repo, submit issues, or open pull requests.
-
-```
-Would you like me to also add **badges** (Python version, license, etc.) at the top for a more professional GitHub look?
-```
